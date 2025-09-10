@@ -42,6 +42,7 @@ To participate in research projects, you MUST:
 
 - [NASA SUITS Official Website](https://www.nasa.gov/learning-resources/spacesuit-user-interface-technologies-for-students/)
 - [NASA Micro-g NExT Official Website](https://www.nasa.gov/learning-resources/micro-g-neutral-buoyancy-experiment-designteams/)
+- [NASA STEM Gateway](https://www.stemgateway.nasa.gov/s/)
 - [NASA Internships & Fellowships](https://intern.nasa.gov/)
 - [CosmoShox Official Website](https://www.wichita.edu/academics/college-of-innovation-and-design/cosmoshox.php)
 
