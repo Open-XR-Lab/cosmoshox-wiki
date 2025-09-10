@@ -1,4 +1,4 @@
-# Welcome to the Cosmoshox Student Team Wiki
+# Cosmoshox Student Team Wiki
 
 Welcome to the Cosmoshox team! This wiki is your central hub for information, resources, and guidelines as we work together on NASA challenges.
 
@@ -8,6 +8,7 @@ Welcome to the Cosmoshox team! This wiki is your central hub for information, re
 
 - [Instagram](https://www.instagram.com/cosmoshox)
 - [LinkedIn](https://www.linkedin.com/company/openxrlab/)
+- [Youtube](https://www.youtube.com/@WSU_InnovationDesign/)
 - [GitHub](https://github.com/Open-XR-Lab)
 
 ---
@@ -21,7 +22,7 @@ Welcome to the Cosmoshox team! This wiki is your central hub for information, re
 - Keep the lab clean and organized.
 - Report any issues or incidents to your faculty advisor.
 
-To participate in research projects, you must: 
+To participate in research projects, you MUST: 
 1. Read the [lab handbook](/assets/Open%20XR%20Lab%20Handbook-2025-2026.pdf).
 2. Attend a lab orientation session.
 4. Agree to follow all lab policies and procedures by filling out [this form](https://wichitastate.co1.qualtrics.com/jfe/form/SV_6L2743NcVxf3b5s).
@@ -30,21 +31,18 @@ To participate in research projects, you must:
 
 ## 📚 Required Reading
 
-- [NASA Code of Conduct](#)
-- [Cosmoshox Team Handbook](#)
-- [Project Guidelines](#)
-- [Safety Manual](#)
-- [Research Ethics](#)
+- [Notebook LM with Podcast](#)
+- [Open XR Lab Handbook](/assets/Open%20XR%20Lab%20Handbook-2025-2026.pdf)
+- [Research Papers](#)
 
 ---
 
 ## 🚀 NASA Resources
 
-- [NASA Official Website](https://www.nasa.gov/)
-- [NASA STEM Engagement](https://www.nasa.gov/stem)
-- [NASA Open Data Portal](https://data.nasa.gov/)
+- [NASA SUITS Official Website](https://www.nasa.gov/learning-resources/spacesuit-user-interface-technologies-for-students/)
+- [NASA Micro-g NExT Official Website](https://www.nasa.gov/learning-resources/micro-g-neutral-buoyancy-experiment-designteams/)
 - [NASA Internships & Fellowships](https://intern.nasa.gov/)
-- [NASA Challenges](https://www.nasa.gov/solve)
+- [CosmoShox Official Website](https://www.wichita.edu/academics/college-of-innovation-and-design/cosmoshox.php)
 
 ---
 
