@@ -35,11 +35,11 @@ To participate in research projects, you MUST:
 - [Notebook LM with Podcast](https://notebooklm.google.com/notebook/f692f54f-e6af-4591-a233-ad9151bf7be2)
 - [Open XR Lab Handbook](/assets/Open%20XR%20Lab%20Handbook-2025-2026.pdf)
 - Research Papers
-- - [Dust Paper](/assets/DUST_IEEE2023Paper.pdf)
-- - [Enhanced EVA Informatics](/assets/2003-01-2413_Requirements_and_Potential_for_Enhanc.pdf)
-- - [Joint AR (JARVIS) HUD](/assets/ICES-2023-298-V2.pdf)
-- - [Underwater VR](/assets/UnderwaterVRSystem-Neutral-Buoyancy-Training-ACM2019.pdf)
-- - [Tandem Spacewalk Martian Simulation](/assets/Tandem-walk-in-simulated-martian-env.pdf)
+    - [Dust Paper](/assets/DUST_IEEE2023Paper.pdf)
+    - [Enhanced EVA Informatics](/assets/2003-01-2413_Requirements_and_Potential_for_Enhanc.pdf)
+    - [Joint AR (JARVIS) HUD](/assets/ICES-2023-298-V2.pdf)
+    - [Underwater VR](/assets/UnderwaterVRSystem-Neutral-Buoyancy-Training-ACM2019.pdf)
+    - [Tandem Spacewalk Martian Simulation](/assets/Tandem-walk-in-simulated-martian-env.pdf)
 
 ---
 
