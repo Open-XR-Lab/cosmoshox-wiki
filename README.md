@@ -25,6 +25,7 @@ Welcome to the Cosmoshox team! This wiki is your central hub for information, re
 To participate in research projects, you MUST: 
 1. Read the [lab handbook](/assets/Open%20XR%20Lab%20Handbook-2025-2026.pdf).
 2. Attend a lab orientation session.
+3. Complete [CITI training](https://about.citiprogram.org/)
 4. Agree to follow all lab policies and procedures by filling out [this form](https://wichitastate.co1.qualtrics.com/jfe/form/SV_6L2743NcVxf3b5s).
 
 ---
