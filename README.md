@@ -46,7 +46,9 @@ To participate in research projects, you MUST:
     - [Joint AR (JARVIS) HUD](/assets/ICES-2023-298-V2.pdf)
     - [Underwater VR](/assets/UnderwaterVRSystem-Neutral-Buoyancy-Training-ACM2019.pdf)
     - [Tandem Spacewalk Martian Simulation](/assets/Tandem-walk-in-simulated-martian-env.pdf)
-
+- Spacewalk Videos
+    - [Water in helmet during EFA](https://www.youtube.com/watch?v=bxFdfk35_K0)
+    - [Close-up of gloves and tools](https://www.youtube.com/watch?v=VEi0nT1nmFg)
 ---
 
 ## 🚀 NASA Resources
