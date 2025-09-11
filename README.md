@@ -4,6 +4,12 @@ Welcome to the Cosmoshox team! This wiki is your central hub for information, re
 
 ---
 
+## 👾 Join the CosmoShox Student Org
+
+[ShockerSync](https://wichita.campuslabs.com/engage/organization/COSMOSHOX)
+
+---
+
 ## 🌐 Social Media Links
 
 - [Instagram](https://www.instagram.com/cosmoshox)
