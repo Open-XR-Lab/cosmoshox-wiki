@@ -28,11 +28,12 @@ Welcome to the Cosmoshox team! This wiki is your central hub for information, re
 - Keep the lab clean and organized.
 - Report any issues or incidents to your faculty advisor.
 
-To participate in research projects, you MUST: 
+To participate in research projects in the Open XR Lab, you MUST: 
 1. Read the [lab handbook](/assets/Open%20XR%20Lab%20Handbook-2025-2026.pdf).
-2. Attend a lab orientation session.
-3. Complete [CITI training](https://about.citiprogram.org/)
-4. Agree to follow all lab policies and procedures by filling out [this form](https://wichitastate.co1.qualtrics.com/jfe/form/SV_6L2743NcVxf3b5s).
+2. Watch this [lab orientation video](https://www.canva.com/design/DAGTA3yerRU/t44GTA0aK_jlDCs_f9LH9A/view).
+3. Attend an in-person lab tour.
+4. Complete [CITI training](https://about.citiprogram.org/)
+5. Agree to follow all lab policies and procedures by filling out [this form](https://wichitastate.co1.qualtrics.com/jfe/form/SV_6L2743NcVxf3b5s).
 
 ---
 
